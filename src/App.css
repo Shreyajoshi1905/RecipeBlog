@@ -1,0 +1,37 @@
+.App{
+  background-color: rgb(129, 173, 184);
+}
+.App button{
+  margin-left: 500px;
+  margin-right: 200px;
+}
+.App input{
+  margin-left: 450px;
+}
+.recipe{
+   margin: center;
+
+}
+.recipe h2{
+  text-align: center;
+}
+.recipe p{
+   text-align: center;
+}
+
+.recipe img{
+  margin-left: 400px;
+}
+
+.recipe ol li{
+  text-align: center;
+}
+
+.App form button{
+  background-color: indianred;
+}
+.App form input{
+  width: 500px;
+  height: 20px ;
+  margin-right: 400px;
+}
